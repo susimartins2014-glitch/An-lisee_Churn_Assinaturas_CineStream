@@ -1,0 +1,25 @@
+id_cliente,nome_usuario,tipo_plano,dias_assinatura,motivo_cancelamento,quartil_churn,media_dias_plano
+1,Lucas Silva,Mobile,3,Preço alto,1,34
+2,Beatriz Souza,Mobile,7,Pouco catálogo,1,34
+3,Carla Dias,Mobile,12,Interface ruim,2,34
+4,Diego Lima,Mobile,25,Preço alto,2,34
+5,Eduardo Ramos,Mobile,30,Outro serviço,3,34
+6,Fernanda Alves,Mobile,45,Não usa muito,3,34
+7,Gabriel Costa,Mobile,60,Problemas técnicos,4,34
+8,Helena Rocha,Mobile,90,Não usa muito,4,34
+9,Igor Santos,Padrão,10,Interface ruim,1,83
+10,Juliana Mendes,Padrão,15,Preço alto,1,83
+11,Kevyn Oliveira,Padrão,35,Pouco catálogo,2,83
+12,Larissa Ramos,Padrão,50,Preço alto,2,83
+13,Marcio Prado,Padrão,80,Não usa muito,3,83
+14,Nathalia Lima,Padrão,110,Outro serviço,3,83
+15,Otavio Mello,Padrão,150,Pouco catálogo,4,83
+16,Paula Freitas,Padrão,210,Não usa muito,4,83
+17,Quintino Neto,Premium,20,Problemas técnicos,1,169
+18,Rafaela Castro,Premium,40,Preço alto,1,169
+19,Samuel Bruno,Premium,75,Pouco catálogo,2,169
+20,Tania Martins,Premium,120,Interface ruim,2,169
+21,Ubirajara Paz,Premium,180,Outro serviço,3,169
+22,Valeria Gomez,Premium,240,Não usa muito,3,169
+23,Wagner Lopes,Premium,310,Não usa muito,4,169
+24,Xavier Nunes,Premium,365,Não usa muito,4,169
